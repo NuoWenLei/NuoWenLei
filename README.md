@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NuoWenLei
 - 👀 I’m interested in Data Science, AI, ML, and Websites
 - 🌱 I’m currently learning Data Science and AI
-- 💞️ I’m looking to collaborate on AI-centered webapps
+- 💞️ I’m looking to collaborate on AI-centered webapps or DS-drive research projects
 - 📫 How to reach me nuowen0612@gmail.com
 - Personal Website: https://nuowenlei.github.io/personal-website/
 
