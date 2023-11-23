@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @NuoWenLei
-- 👀 I’m interested in Data Science, AI, ML, and Websites
-- 🌱 I’m currently learning Data Science and AI
-- 💞️ I’m looking to collaborate on AI-centered webapps or DS-driven research projects
-- 📫 How to reach me nuowen0612@gmail.com
-- Personal Website: https://nuowenlei.github.io/personal-website/
+👋 Hi, I’m @NuoWenLei.
+
+My passion is bringing ideas to life through my love for Software Engineering, Data Science, and Machine Learning/Deep Learning!
+
+Learn more about me and my current projects [here](https://nuowenlei.github.io/personal-portfolio/)
 
 <!---
 NuoWenLei/NuoWenLei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
