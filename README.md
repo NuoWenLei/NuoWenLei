@@ -8,6 +8,8 @@
 
 🤖 Learn more about me at [my personal website](https://nuowenlei.github.io/personal-portfolio/)!
 
+[![Contribution Time Distribution of @NuoWenLei](https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=46566976&period=past_1_year&image_size=auto&color_scheme=dark)](https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution?user_id=46566976&period=past_1_year)
+
 <!---
 NuoWenLei/NuoWenLei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
