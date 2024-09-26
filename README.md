@@ -12,10 +12,10 @@
 - <code style="color : purple">Data Science</code>
 - <code style="color : green">Machine Learning/Deep Learning</code>
 
-🤖 Learn more about me 
-- [personal website](https://nuowenlei.github.io/personal-portfolio/)!
-- [linkedin](https://www.linkedin.com/in/nuo-wen-lei/)!
-- [resume](https://nuowenlei.github.io/personal-portfolio/resume.pdf)!
+🤖 Learn more about me!
+- [personal website](https://nuowenlei.github.io/personal-portfolio/)
+- [linkedin](https://www.linkedin.com/in/nuo-wen-lei/)
+- [resume](https://nuowenlei.github.io/personal-portfolio/resume.pdf)
 
 <!---
 NuoWenLei/NuoWenLei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
