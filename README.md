@@ -14,7 +14,8 @@
 
 🤖 Learn more about me!
 - [personal website](https://nuowenlei.github.io/personal-portfolio/)
-- [linkedin](https://www.linkedin.com/in/nuo-wen-lei/)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nuo-wen-lei/)
+
 - [resume](https://nuowenlei.github.io/personal-portfolio/resume.pdf)
 
 <!---
