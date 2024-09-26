@@ -1,25 +1,21 @@
-👋 Hi, I’m @NuoWenLei.
+## 👋 Hi, I’m @NuoWenLei.
 
+![Nuo Wen Lei's GitHub stats](https://github-readme-stats.vercel.app/api?username=NuoWenLei&show_icons=true&hide=stars)
+
+<sub>From [GitHub ReadMe Stats](https://github.com/anuraghazra/github-readme-stats)</sub>
+&nbsp;  
+&nbsp;  
+&nbsp;  
 🌱 My passion is bringing ideas to life through my love for
 
 - <code style="color : orange">Software Engineering</code>
 - <code style="color : purple">Data Science</code>
 - <code style="color : green">Machine Learning/Deep Learning</code>
 
-🤖 Learn more about me at [my personal website](https://nuowenlei.github.io/personal-portfolio/)!
-
-<!-- Copy-paste in your Readme.md file -->
-
-<a href="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution?user_id=46566976&period=all_times" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=46566976&period=all_times&image_size=auto&color_scheme=dark" width="721" height="auto">
-    <img alt="Contribution Time Distribution of @NuoWenLei" src="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=46566976&period=all_times&image_size=auto&color_scheme=light" width="721" height="auto">
-  </picture>
-</a>
-
-From [OSS Insight](https://next.ossinsight.io/widgets?utm_source=github&utm_medium=referral)
-
-<!-- Made with [OSS Insight](https://ossinsight.io/) -->
+🤖 Learn more about me 
+- [personal website](https://nuowenlei.github.io/personal-portfolio/)!
+- [linkedin](https://www.linkedin.com/in/nuo-wen-lei/)!
+- [resume](https://nuowenlei.github.io/personal-portfolio/resume.pdf)!
 
 <!---
 NuoWenLei/NuoWenLei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
