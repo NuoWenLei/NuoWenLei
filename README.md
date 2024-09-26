@@ -1,8 +1,14 @@
 ## 👋 Hi, I’m @NuoWenLei.
 
-A lifelong learner that loves building projects. Studying Computer Science at Brown University. Previously interned at Microsoft and Numerai and worked at Stealth Startups, one of which is backed by YC.
+### :zap: Quick Facts
+
+<code>A lifelong learner that loves building projects.</code>
+
+<code>Studying Computer Science at Brown University.</code>
+
+<code>Previous internships at Microsoft and Numerai.</code>
  
-### 🌱 My passion is bringing ideas to life through my love for
+### 🌱 My passion is bringing ideas to life with my skills
 
 <code style="color : orange">Software Engineering</code>
 
